@@ -21,7 +21,7 @@ You can add as many responses as you like to the responses dictionary. The chatb
 To customize the chatbot's standard responses, simply edit the standard_responses dictionary in the chatbot.py file. You can add, remove, or modify any of the responses in this dictionary to suit your needs.
 
 # Dependencies
-This chatbot requires the re, random, and collections modules to run. It also requires the long_responses module, which contains some additional responses for the chatbot to use.
+This chatbot requires the re, random, and collections modules to run.
 
 # Improvements
 This chatbot is a very basic example of what can be done with NLP. There are many improvements that could be made to make it more useful and more intelligent. Some possible improvements include:
